@@ -7,5 +7,5 @@ GoogleAnalyticsタグは従来、計測したい数値やクリック等のイ�
 【参考URL】
 [Googleタグマネージャとは？ そのメリットと特徴を知る](http://web-tan.forum.impressrd.jp/e/2014/12/24/18964)
 
-<h2><a id="user-content-タグについて" class="anchor" href="#タグについて" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/master/tag.md">タグについて</a></h2>
+<h2><a id="user-content-タグについて" class="anchor" href="#タグについて" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/tag.md">タグについて</a></h2>
 ・タグマネージャー経由で新規にタグを追加する際の手順・注意等
