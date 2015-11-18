@@ -7,3 +7,6 @@ GoogleAnalyticsタグは従来、計測したい数値やクリック等のイ�
 
 <h2><a id="user-content-タグについて" class="anchor" href="#タグについて" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/tag.md">タグについて</a></h2>
 ・タグマネージャー経由で新規にタグを追加する際の手順・注意等
+
+<h2><a id="user-content-トリガー" class="anchor" href="#トリガー" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/master/trigger.md">トリガー</a></h2>
+・タグ設定で使用されるトリガーについて
