@@ -13,11 +13,11 @@
 【トラッキングID】<br>
   GoogleAnalytics -> アナリティクス設定 -> プロパティ設定 の項目から確認できます。<br>
 【ディスプレイ広告向け機能を有効にする】<br>
-  使用場面等が謎なのでなしで運用しています。<br>
+  設定せずに運用しています。<br>
 【トラッキングタイプ】<br>
   計測するシチュエーションや数値によって適するトラッキングタイプを選択します。<br>
-トラッキングタイプについて、今回は\<a class="link">もっと見る</a>というリンクがクリックされた数を計測するための例を示します。
-トラッキングタイプから"イベント"を選択すると、イベントトラッキングパラメータという項目があります。これはGoogleAnalyticsに【何を何としてレポートするのか】ということを設定するための項目で必須項目は**カテゴリとアクション**です。カテゴリとアクションはAnalyticsの下記画像の部分に相当します。
+トラッキングタイプについて、今回は\<a class="link">もっと見る\</a>というリンクがクリックされた数を計測するための例を示します。
+トラッキングタイプから"イベント"を選択すると、イベントトラッキングパラメータという項目が出てきます。これはGoogleAnalyticsに【何を何としてレポートするのか】ということを設定するための項目で、必須項目は**カテゴリとアクション**です。カテゴリとアクションはAnalyticsの下記画像の部分に相当します。
 ![GoogleTagManager](https://github.com/sho0110/GoogleTagManager/blob/master/images/analytics.png)
 今回、アクションの項目には「/topic/210」など様々な値がレポートされていますが詳細に追う必要がない場合には「クリック」や「リンク」など適当なアクション名を任意に設定することもできます。
 また、非インタラクションヒットは、**リンクを踏んで外部サイトへ遷移した際に直帰とみなすか否か**という設定で基本的に**真**に設定しておきます。
@@ -30,4 +30,4 @@
 ・装飾リンク: <br>
 ・装飾フォーム: <br>
 【配信するタイミング】<br>
-Analyticsにレポートを送信するタイミングです。今回はリンクがクリックされた瞬間にレポートを送信したいので、トリガーの種類をクリックにし、related_postsというトリガーを設定しています。トリガーについては別途<a id="user-content-トリガー" class="anchor" href="#トリガー" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/master/trigger.md">トリガー</a>を参照してください。
+Analyticsにレポートを送信するタイミングです。今回はリンクがクリックされた瞬間にレポートを送信したいので、トリガーの種類をクリックにし、related_postsというトリガーを設定しています。トリガーについては別途<a id="user-content-トリガー" class="anchor" href="#トリガー" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/trigger.md">トリガー</a>を参照してください。
