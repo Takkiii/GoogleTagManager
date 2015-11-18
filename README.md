@@ -14,5 +14,8 @@ GoogleAnalyticsタグは従来、計測したい数値やクリック等のイ�
 <h2><a id="user-content-変数" class="anchor" href="#変数" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/variable.md">変数</a></h2>
 ・タグのカテゴリ、アクション設定やトリガーの有効化、配信のタイミング設定で使用することのできる変数について
 
-<h2><a id="user-content-バージョン" class="anchor" href="#バージョン" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/preview.md">バージョン</a></h2>
+<h2><a id="user-content-バージョン" class="anchor" href="#バージョン" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/version.md">バージョン</a></h2>
 ・GoogleTagManagerではタグやトリガーの新規作成、編集、削除等をバージョンで管理します。
+
+<h2><a id="user-content-プレビュー" class="anchor" href="#プレビュー" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/sho0110/GoogleTagManager/blob/master/preview.md">プレビュー</a></h2>
+・管理画面からタグを追加し、正常に動作しているか・他のタグに影響を与えていないかなどをチェックするためにバージョンの公開を行う前にプレビュー機能で動作を確認しましょう。
